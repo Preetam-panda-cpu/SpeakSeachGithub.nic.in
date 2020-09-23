@@ -40,7 +40,7 @@ body {
 }
 
 #searchBlock article form button {
-    background: crimson;
+    background: rgb(14, 14, 182);;
     padding: 12px 30px;
     border: none;
     color: #fff;
